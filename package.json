@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "jsr": "^0.12.4",
+    "prettier": "^3.3.2"
+  }
+}

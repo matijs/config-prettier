@@ -1,0 +1,5 @@
+{
+  "name": "@matijs/config-prettier",
+  "version": "1.0.1",
+  "exports": "./index.ts"
+}
